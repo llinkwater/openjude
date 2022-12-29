@@ -1,0 +1,2 @@
+# openjude
+http://openjudge.cn/
